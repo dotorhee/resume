@@ -14,11 +14,11 @@ sidebar:
 
   # Sidebar links
   email: dotorhee22@gmail.com
-  phone: +82 10 9670 0369
-  timezone: KST (UTC+9) # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+ # phone: +82 10 9670 0369
+ # timezone: KST (UTC+9) # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   #citizenship: 
   website: https://dotorhee.github.io/resume/ # Include the full website URL, including "http://" or "https://".
-  instagram: '@dotorhee'
+  instagram: https://instagram.com/dotorhee
   #linkedin: alandoe
   #xing: alandoe
   #github: dotorhee
@@ -34,6 +34,32 @@ sidebar:
   # hackerrank: # Please provide your HackerRank username.
   # leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+education:
+  title: Education
+  info:
+  - degree: M.A. in Korean Language and Literature
+    university: Sungkyunkwan University
+    time: 2023 - 2025
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: B.A. in Korean Language and Literature
+    university: Sungkyunkwan University
+    time: 2017 - 2023
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
   languages:
     title: Languages
@@ -77,31 +103,6 @@ career-profile:
     penatibus et magnis dis parturient montes, nascetur ridiculus mus.
     Donec quam felis, ultricies nec, pellentesque eu.
     Second paragraph if required.
-education:
-  title: Education
-  info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
 
 experiences:
   title: Experiences
