@@ -101,28 +101,23 @@ education:
 
 publications:
   title: Publications
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: A Comparative Study on Romanisation of Korean by French Scholars in the 19th Century
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  intro: |
+    Asterisk (*) marks works written in Korean
+  papers:
+  - title: "A Comparative Study on Romanisation of Korean by French Scholars in the 19th Century"
+    link: "10.70586/JBLL.2025.070.001 "
+    authors: "Bak, Do Rhee"
+    conference: 
 
-  - title: A Review of Examples in Korean and Foreign Dictionaries
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: "A Review of Examples in Korean and Foreign Dictionaries"
+    link: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003143755"
+    authors: "Kim Jihye, Bak Do Rhee, Yun Jisol" 
+    conference: 
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: "Approaches to Providing Morphological Analysis Information in Korean Dictionaries - Focusing on Standard Korean Dictionary -"
+    link: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003085276"
+    authors: "Lee JunHee, Cho Gyo Hyeon, Bak Do Rhee, Kwak Yuseok"
+    conference: 
 
 
 
