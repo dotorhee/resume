@@ -238,12 +238,17 @@ education:
 #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
+  title: selected publications
   intro: |
-    Asterisk (*) marks works written in Korean
+    Asterisk (*) marks works written in Korean. View CV for full lists of publications and conference presentations. 
   papers:
   - title: "*A Comparative Study on Romanisation of Korean by French Scholars in the 19th Century"
     link: "https://kiss.kstudy.com/Detail/Ar?key=4189378"
+    authors: "Bak Do Rhee"
+    conference: 
+    
+  - title: "*A Study on Vowel Devoicing in Seoul Korean - focusing on prosodic environment -"
+    link: "https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=e09cbc18a8823447ffe0bdc3ef48d419&keyword=%EB%B0%95%EB%8F%84%EB%A6%AC"
     authors: "Bak Do Rhee"
     conference: 
 
@@ -256,6 +261,7 @@ publications:
     link: "https://kiss.kstudy.com/DetailOa/Ar?key=54543534"
     authors: "Lee JunHee, Cho Gyo Hyeon, Bak Do Rhee, Kwak Yuseok"
     conference: 
+
 
 # recommendations:
 #   title: Recommendations
