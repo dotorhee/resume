@@ -67,8 +67,8 @@ sidebar:
       link:
 
 
-research interest:
-  title: Career Profile
+career-profile:
+  title: Research Interest
   summary: |
     Phonetics, sociophonetics, phonology, Korean historical linguistics, politeness
 
@@ -100,15 +100,15 @@ education:
 
 
 publications:
-  title: A Comparative Study on Romanisation of Korean by French Scholars in the 19th Century. 
+  title: Publications
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
+  - title: A Comparative Study on Romanisation of Korean by French Scholars in the 19th Century
     link: "#hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
+  - title: A Review of Examples in Korean and Foreign Dictionaries
     link: "#"
     tagline: "A responsive website template designed to help web developers/designers market their services."
 
