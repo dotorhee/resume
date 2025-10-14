@@ -70,7 +70,7 @@ sidebar:
 career-profile:
   title: Research Interest
   summary: |
-    Phonetics, sociophonetics, phonology, reduction, Korean historical linguistics, politeness
+    Phonetics, sociophonetics, phonology, reduction, politeness, historical linguistics
 
 education:
   title: Education
@@ -240,7 +240,8 @@ education:
 publications:
   title: selected publications
   intro: |
-    Asterisk (*) marks works written in Korean. View CV for full lists of publications and conference presentations. 
+    Asterisk (*) marks works written in Korean. 
+    View CV for full lists of publications and conference presentations. 
   papers:
   - title: "*A Comparative Study on Romanisation of Korean by French Scholars in the 19th Century"
     link: "https://kiss.kstudy.com/Detail/Ar?key=4189378"
