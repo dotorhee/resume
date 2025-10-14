@@ -79,24 +79,13 @@ education:
     university: Sungkyunkwan University
     time: 2023 - 2025
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - "Graduated with highest hounour"
-        - Bullet point
+        - Graduated with highest hounour
+
   - degree: B.A. in Korean Language and Literature
     university: Sungkyunkwan University
     time: 2017 - 2023
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - "Magna Cum Laude"
-        - Bullet point
+        - Magna Cum Laude
 
 
 
