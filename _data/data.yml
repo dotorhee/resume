@@ -4,8 +4,8 @@
 
 sidebar:
   position: left # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  about: Falase # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: BAK Do Rhee 박도리 [pak̚.to.ɾi]
@@ -204,27 +204,6 @@ education:
 #       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
 #       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #       Praesent venenatis erat non augue suscipit consectetur.
-
-certifications:
-  title: Conference Presentations
-  list:
-  - name: "*A Comparative Study on Romanisation of Korean by French Scholars in the 19th Century"
-    start: "May 2025"
-    end: 
-    organization: 
-    credentialid: 
-    credentialurl: 
-    credentialname: "4th International Conference of Sungkyun Korean Studies, The Society of Bangyo Language and Literature, The Society of Hansung Language and Literature. Seoul, Korea. "
-    details: |
-      
-  - name: "A Preliminary Phonological Study on Korean Grammar Textbooks written by German Missionaries in early 20th Century"
-    start: "Feb 2025"
-    end:
-    organization: 
-    credentialid: 
-    credentialurl: 
-    credentialname: "'Sungkyunkwan University meets East Asian Futures' Exchange-Meeting Workshop. Ruhr, Germany. / Heidelberg-Sungkyunkwan Research Workshop. Heidelberg, Germany."
-    details: |
 
 
 # projects:
