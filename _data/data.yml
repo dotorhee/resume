@@ -104,20 +104,40 @@ publications:
   intro: |
     Asterisk (*) marks works written in Korean
   papers:
-  - title: "A Comparative Study on Romanisation of Korean by French Scholars in the 19th Century"
-    link: "10.70586/JBLL.2025.070.001 "
-    authors: "Bak, Do Rhee"
+  - title: "*A Comparative Study on Romanisation of Korean by French Scholars in the 19th Century"
+    link: "https://kiss.kstudy.com/Detail/Ar?key=4189378"
+    authors: "Bak Do Rhee"
     conference: 
 
-  - title: "A Review of Examples in Korean and Foreign Dictionaries"
-    link: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003143755"
+  - title: "*A Review of Examples in Korean and Foreign Dictionaries"
+    link: "https://kiss.kstudy.com/DetailOa/Ar?key=54603279"
     authors: "Kim Jihye, Bak Do Rhee, Yun Jisol" 
     conference: 
 
-  - title: "Approaches to Providing Morphological Analysis Information in Korean Dictionaries - Focusing on Standard Korean Dictionary -"
-    link: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003085276"
+  - title: "*Approaches to Providing Morphological Analysis Information in Korean Dictionaries - Focusing on Standard Korean Dictionary -"
+    link: "https://kiss.kstudy.com/DetailOa/Ar?key=54543534"
     authors: "Lee JunHee, Cho Gyo Hyeon, Bak Do Rhee, Kwak Yuseok"
     conference: 
+
+publications:
+  title: Conference Presentations
+  intro: |
+    Asterisk (*) marks presentations delivered in Korean
+  papers:
+  - title: "*A Comparative Study on Romanisation of Korean by French Scholars in the 19th Century"
+    link: "#"
+    authors: "Bak Do Rhee"
+    conference: "5th International Conference of Sungkyun Korean Studies, The Society of Bangyo Language and Literature. Seoul, Korea."
+
+  - title: "A Preliminary Phonological Study on Korean Grammar Textbooks written by German Missionaries in early 20th Century"
+    link: "#"
+    authors: "Bak Do Rhee" 
+    conference: "'Sungkyunkwan University meets East Asian Futures' Exchange-Meeting Workshop. Ruhr, Germany. / Heidelberg-Sungkyunkwan Research Workshop. Heidelberg, Germany."
+
+  - title: "*A Study on Vowel Devoicing in Seoul Korean Spontaneous Speech"
+    link: "#"
+    authors: "Bak Do Rhee"
+    conference: "4th International Conference of Sungkyun Korean Studies, The Society of Bangyo Language and Literature, The Society of Hansung Language and Literature. Seoul, Korea."
 
 
 
