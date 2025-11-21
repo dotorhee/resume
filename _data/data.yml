@@ -244,7 +244,7 @@ education:
 publications:
   title: selected publications
   intro: |
-    Asterisk (*) marks works written in Korean. | View résumé pdf for a full list of publications and conference presentations. | All names are in the order of family name → first name; e.g. 'Bak'(family name) 'Do Rhee'(first name)
+    □ Asterisk (*) marks works written in Korean. | □ View résumé pdf for a full list of publications and conference presentations. | □ All names are in the order of family name → first name; e.g. 'Bak'(family name) 'Do Rhee'(first name)
   papers:
   - title: "*A Comparative Study on Romanisation of Korean by French Scholars in the 19th Century"
     link: "https://kiss.kstudy.com/Detail/Ar?key=4189378"
