@@ -79,15 +79,15 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: M.A. in Korean Language and Literature
+  - degree: M.A. | Korean Language and Literature
     university: Sungkyunkwan University
-    time: 2023 - 2025
+    time: 2023-2025
     details: |
         - Graduated with highest honour
 
-  - degree: B.A. in Korean Language and Literature | B.A. in Interdisciplinary Linguistics
+  - degree: B.A.s | Korean Language and Literature, Interdisciplinary Linguistics
     university: Sungkyunkwan University
-    time: 2017 - 2023
+    time: 2017-2023
     details: |
         - Magna Cum Laude
 
